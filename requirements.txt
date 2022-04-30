@@ -1,0 +1,2 @@
+matplotlib>=3.5.1
+perlin-noise>=1.12
